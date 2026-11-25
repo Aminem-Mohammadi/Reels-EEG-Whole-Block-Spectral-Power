@@ -91,4 +91,6 @@ If you use this code, please cite the article above. Citation details will be up
 
 ## Contact
 
-Behrooz Dolatshahi, Department of Psychology, University of Social Welfare and Rehabilitation Sciences, Tehran, Iran (be.dolatshahi@uswr.ac.ir).
+- **Code, analysis methods, and EEG:** Amin M. Mohammadi, School of Electrical and Computer Engineering, College of Engineering, University of Tehran, Tehran, Iran (aminem.mohamadi@gmail.com)
+- **Data availability, study design, and cognitive and social-science questions:** Zahra Ramezani, Department of Clinical Psychology, University of Social Welfare and Rehabilitation Sciences, Tehran, Iran (zahra.ramezani.2079@gmail.com)
+- **The research group and its work:** Behrooz Dolatshahi, Department of Psychology, University of Social Welfare and Rehabilitation Sciences, Tehran, Iran (be.dolatshahi@uswr.ac.ir)
