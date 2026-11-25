@@ -2,7 +2,7 @@
 
 Analysis code for the study:
 
-> Ramezani, Z., Mohammadi, A. M., Hajiha, Z. & Dolatshahi, B. *Watching Instagram Reels changes brain rhythms without impairing attention or working memory: an EEG study.* Manuscript submitted to *Scientific Reports* (2026).
+> Ramezani, Z., Mohammadi, A. M., Hajiha, Z. & Dolatshahi, B. *Brain rhythms during Instagram Reels viewing and subsequent performance on sustained attention and working memory: an EEG study.* Manuscript submitted to *Scientific Reports* (2026).
 
 The data are available on the Open Science Framework: **[OSF link / DOI]**.
 
