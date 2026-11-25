@@ -4,7 +4,7 @@ Analysis code for the study:
 
 > Ramezani, Z., Mohammadi, A. M., Hajiha, Z. & Dolatshahi, B. *Brain rhythms during Instagram Reels viewing and subsequent performance on sustained attention and working memory: an EEG study.* Manuscript submitted to *Scientific Reports* (2026).
 
-The data are available on the Open Science Framework: **[OSF link / DOI]**.
+The processed data are available from Zahra Ramezani (zahra.ramezani.2079@gmail.com) or the corresponding author (be.dolatshahi@uswr.ac.ir) upon reasonable request.
 
 ## Study in brief
 
@@ -43,7 +43,7 @@ task log files ──────────────► Cognitive_Tasks/Beh
 
 ## How to run
 
-1. Download the data from OSF.
+1. Obtain the data from the authors (see above).
 2. In each analysis folder, open `config.m` and set `DATA_DIR` to the matching data folder. This is the only edit needed. Outputs are written to a `results/` folder inside the analysis folder.
 3. Start MATLAB from inside the analysis folder and run the scripts in the order given in that folder's README.
 4. EEG statistics scripts have a `RUN_MODE` setting near the top. Run each of them twice: once with `'full_sample'` (N = 30) and once with `'sensitivity_excl_noisy'` (cleaned sample, N = 28).
