@@ -33,11 +33,11 @@ task log files ──────────────► Cognitive_Tasks/Beh
 
 | Component | Version | Used in |
 |---|---|---|
-| MATLAB | **25.2.0.2998904 (R2025b)** | all `.m` files |
-| Statistics and Machine Learning Toolbox | **25.2** | all statistics scripts (`fitlme`) |
-| Signal Processing Toolbox | **25.2** | `Intervention/X03` (`pwelch`) |
-| EEGLAB (with ICLabel) | **2025.1.0 ICLabel 1.7** | Preprocessing; reading `.set` files |
-| Psychtoolbox | **Psychtoolbox - 3.0.19** | Task |
+| MATLAB | 25.2.0.2998904 (R2025b) | all `.m` files |
+| Statistics and Machine Learning Toolbox | 25.2 | all statistics scripts (`fitlme`) |
+| Signal Processing Toolbox | 25.2 | `Intervention/X03` (`pwelch`) |
+| EEGLAB (with ICLabel) | 2025.1.0 (ICLabel 1.7) | Preprocessing; reading `.set` files |
+| Psychtoolbox | Psychtoolbox - 3.0.19 | Task |
 | Python | ≥ 3.9 | figure scripts (`F01`–`F03`), FOOOF fits |
 | Python packages | see `Intervention/requirements_figures.txt`, plus `fooof` | |
 
